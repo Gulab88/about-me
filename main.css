@@ -1,5 +1,11 @@
 div { 
-	background-color: azure;
+	background-color: #333A56;
 	border: 1px solid aquamarine;
 	padding: 30px;
+	color: white;
+	font-family: 'Sahitya', serif;
+}
+
+a {
+color:white
 }
